@@ -72,7 +72,7 @@ public class Main {
             med(list);
             Min(list);
             Max(list);
-            System.out.println(list);
+            
 
 
     }
